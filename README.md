@@ -1,6 +1,6 @@
 <h1 align="center">
   Hélio de Breyne
-  <br>
+  <br><br>
   <span>FullStack Developer</span>
 </h1>
 
