@@ -56,7 +56,6 @@
 ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
 
 <div align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deleau
-  victor&layout=compact&show_icons=true&theme=onedark&locale=en)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debreyne&layout=compact&show_icons=true&theme=onedark&locale=en)
   (https://github.com/anuraghazra/github-readme-stats)
 </div>
