@@ -20,7 +20,6 @@
 ### Frontend
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
-![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)
 
 ### UI
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
