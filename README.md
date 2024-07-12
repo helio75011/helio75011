@@ -31,6 +31,12 @@
 ![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg)
 ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg)
 
+### Mobile
+![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg)
+![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
+
 ### SQL Databases
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
 
