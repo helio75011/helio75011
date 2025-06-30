@@ -29,6 +29,7 @@
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![Express Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
 ![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg)
 
 ### Mobile
